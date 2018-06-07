@@ -1,3 +1,3 @@
-# BT Feed Crawler
+# Proyecto Cake PHP Base
 
-Aplicación para obtener feed de twitter relacionado a búsquedas definidas por el usuario.
+Incluye: Cake PHP 3 + jQuery + Bootstrap + Popper + Tooltip + Font Awesome
